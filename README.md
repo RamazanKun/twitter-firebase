@@ -8,3 +8,6 @@
 <h2>Screenshot / Ekran Görüntüsü:</h2>
 
 ![](twitter.mp4)
+
+https://github.com/RamazanKun/twitter-firebase/assets/129733537/3f4930fb-0f58-45c0-987b-ed6bea8ee5b0
+
